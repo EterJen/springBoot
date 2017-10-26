@@ -1,5 +1,6 @@
 f
 f
+bug fix
 j
 Git is a distributed version control system.
 Git is fredfdsfdsf sofdsftware.
