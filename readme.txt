@@ -6,4 +6,4 @@ new test de
 ete
 create a new branch is so easy & quick;
 create a new branch is so easy and quick;
-Git is a version cont
+Git is is a version cont
