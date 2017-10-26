@@ -7,6 +7,5 @@ ete
 create a new branch is so easy & quick;
 create a new branch is so easy and quick;
 1
-2
 3
 Git is is a version cont
