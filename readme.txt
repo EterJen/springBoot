@@ -1,5 +1,6 @@
 i am a
 i am b
+i am not ok
 f
 Git is a distributed version control system.
 Git is fredfdsfdsf sofdsftware.
